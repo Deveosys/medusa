@@ -1,5 +1,16 @@
 # @medusajs/link-modules
 
+## 0.2.10
+
+### Patch Changes
+
+- [#6764](https://github.com/medusajs/medusa/pull/6764) [`60070fb65f`](https://github.com/medusajs/medusa/commit/60070fb65fa58872219a1145a8eace837f0cafde) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Recreate dismissed link
+
+- Updated dependencies [[`06f22bb48a`](https://github.com/medusajs/medusa/commit/06f22bb48ad1fe73577657b8c5db055312f16a0d), [`4974f5e455`](https://github.com/medusajs/medusa/commit/4974f5e4557bd64a328a881ec02b91e15485bd23), [`05e857d256`](https://github.com/medusajs/medusa/commit/05e857d25657b5576a891c9b48c19c1759c70701)]:
+  - @medusajs/modules-sdk@1.12.10
+  - @medusajs/utils@1.11.8
+  - @medusajs/types@1.12.0
+
 ## 0.2.9
 
 ### Patch Changes

@@ -1,5 +1,23 @@
 # Change Log
 
+## 1.21.0
+
+### Minor Changes
+
+- [#6759](https://github.com/medusajs/medusa/pull/6759) [`70859397c0`](https://github.com/medusajs/medusa/commit/70859397c00ad0b45a517547e2792ed4f6882d73) Thanks [@sradevski](https://github.com/sradevski)! - Align the v2 product HTTP endpoints to follow conventions
+
+### Patch Changes
+
+- [#6771](https://github.com/medusajs/medusa/pull/6771) [`205573f5e3`](https://github.com/medusajs/medusa/commit/205573f5e3bb826abe1cc1bc16855f079aa490e4) Thanks [@srindom](https://github.com/srindom)! - fix(medusa): ensure feature flags are loaded properly in migrate command
+
+- Updated dependencies [[`70859397c0`](https://github.com/medusajs/medusa/commit/70859397c00ad0b45a517547e2792ed4f6882d73), [`06f22bb48a`](https://github.com/medusajs/medusa/commit/06f22bb48ad1fe73577657b8c5db055312f16a0d), [`60070fb65f`](https://github.com/medusajs/medusa/commit/60070fb65fa58872219a1145a8eace837f0cafde), [`4974f5e455`](https://github.com/medusajs/medusa/commit/4974f5e4557bd64a328a881ec02b91e15485bd23), [`05e857d256`](https://github.com/medusajs/medusa/commit/05e857d25657b5576a891c9b48c19c1759c70701), [`3ca957ec0f`](https://github.com/medusajs/medusa/commit/3ca957ec0fdcdc966a3d2ca94b8222d68767cf9a)]:
+  - @medusajs/core-flows@0.1.0
+  - @medusajs/modules-sdk@1.12.10
+  - @medusajs/orchestration@0.5.6
+  - @medusajs/link-modules@0.2.10
+  - @medusajs/utils@1.11.8
+  - @medusajs/workflows-sdk@0.1.5
+
 ## 1.20.3
 
 ### Patch Changes

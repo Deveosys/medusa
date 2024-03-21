@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 1.12.0
+
+### Minor Changes
+
+- [#6748](https://github.com/medusajs/medusa/pull/6748) [`05e857d256`](https://github.com/medusajs/medusa/commit/05e857d25657b5576a891c9b48c19c1759c70701) Thanks [@sradevski](https://github.com/sradevski)! - Updated the signature of the product module variant and options endpoints to follow our conventions
+
 ## 1.11.14
 
 ### Patch Changes

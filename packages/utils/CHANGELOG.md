@@ -1,5 +1,14 @@
 # @medusajs/utils
 
+## 1.11.8
+
+### Patch Changes
+
+- [#6751](https://github.com/medusajs/medusa/pull/6751) [`4974f5e455`](https://github.com/medusajs/medusa/commit/4974f5e4557bd64a328a881ec02b91e15485bd23) Thanks [@riqwan](https://github.com/riqwan)! - feat(utils): autogenerates create and update methods when dto is provided
+
+- Updated dependencies [[`05e857d256`](https://github.com/medusajs/medusa/commit/05e857d25657b5576a891c9b48c19c1759c70701)]:
+  - @medusajs/types@1.12.0
+
 ## 1.11.7
 
 ### Patch Changes

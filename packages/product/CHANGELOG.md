@@ -1,5 +1,18 @@
 # @medusajs/product
 
+## 0.4.0
+
+### Minor Changes
+
+- [#6748](https://github.com/medusajs/medusa/pull/6748) [`05e857d256`](https://github.com/medusajs/medusa/commit/05e857d25657b5576a891c9b48c19c1759c70701) Thanks [@sradevski](https://github.com/sradevski)! - Updated the signature of the product module variant and options endpoints to follow our conventions
+
+### Patch Changes
+
+- Updated dependencies [[`06f22bb48a`](https://github.com/medusajs/medusa/commit/06f22bb48ad1fe73577657b8c5db055312f16a0d), [`4974f5e455`](https://github.com/medusajs/medusa/commit/4974f5e4557bd64a328a881ec02b91e15485bd23), [`05e857d256`](https://github.com/medusajs/medusa/commit/05e857d25657b5576a891c9b48c19c1759c70701)]:
+  - @medusajs/modules-sdk@1.12.10
+  - @medusajs/utils@1.11.8
+  - @medusajs/types@1.12.0
+
 ## 0.3.10
 
 ### Patch Changes
